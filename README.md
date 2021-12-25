@@ -12,5 +12,5 @@
 - 3dml_lab_4_2 - Сделать восстановления тела человека со своего изображения для модели Human Mesh Recovery.
 - 3dml_lab_4_3 - Сделать gif анимацию деформации геометрии лица человека в модели FLAME.
 
-- 3dml_lab_5 - Сделать DeepFake со своим лицом и наложить на лицо другого человека с помощью модели SimSwap;
+- 3dml_lab_5 - Сделать DeepFake со своим лицом и наложить на лицо другого человека с помощью модели SimSwap.
 - 3dml_lab_5_detection - Оценить качества итогового дип фейка с помощью Video Face Manipulation Detection Through Ensemble of CNNs.
